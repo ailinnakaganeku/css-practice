@@ -17,7 +17,7 @@ span {
 }
 
 span:before {
-  content: "NAKAGANEKU";
+  content: "CATALINA";
   position: absolute;
   color: transparent;
   background-image: repeating-linear-gradient(
@@ -35,7 +35,7 @@ span:before {
 }
 
 span:after {
-  content: "NAKAGANEKU";
+  content: "CATALINA";
   position: absolute;
   color: transparent;
   background-image: radial-gradient(purple 2px, transparent 2px);
