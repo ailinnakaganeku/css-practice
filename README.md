@@ -1,7 +1,5 @@
 # Css Practice
 
-Hope you like it!
+Hope you like it!https://ailinnakaganeku.github.io/css-practice/
 
-## Preview link: 
 
-https://ailinnakaganeku.github.io/css-practice/
