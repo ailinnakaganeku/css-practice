@@ -1,7 +1,7 @@
 # Css Practice
 
-I hope you like it.
+This a CSS text effect practice. Hope you like it!
 
 ## Preview link: 
 
-_https://ailinnakaganeku.github.io/css-practice/_
+https://ailinnakaganeku.github.io/css-practice/
